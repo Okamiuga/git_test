@@ -1,1 +1,2 @@
 This is some text I am adding as a test. The name implies it, I know.
+This is a sample alteration to test the commit message feature in VSCode.
